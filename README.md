@@ -1,4 +1,4 @@
-# AoA Community [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# AoA Community
 
 > A community-maintained collection of experimental tools, plugins, and resources for AoA, a Hybrid Workforce Operating System for solo founders and teams. AoA brings AI agents and people together in one control room.
 
