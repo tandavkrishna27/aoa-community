@@ -1,6 +1,6 @@
-# 🖇️ AoA Community [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# AoA Community [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of AoA tools, plugins, and resources. AoA is a Hybrid Workforce Operating System for solo founders and teams. Founders manage AI agents and humans from a single control room.
+> A community-maintained collection of experimental tools, plugins, and resources for AoA, a Hybrid Workforce Operating System for solo founders and teams. AoA brings AI agents and people together in one control room.
 
 ---
 
@@ -16,34 +16,31 @@
 
 ## Official
 
-Official repositories and resources from the AoA / MeteoriteLabs team.
+The AoA ecosystem has distinct roles across its repositories:
 
-- [AoA](https://github.com/MeteoriteLabs/aoa) — Hybrid Workforce Operating System for solo founders and teams.
-- [AoA Marketplace](https://github.com/MeteoriteLabs/aoa-marketplace-cdn) — Public CDN catalog of AoA-curated plugins, skills, agent templates, and team templates. Live catalog: https://meteoritelabs.github.io/aoa-marketplace-cdn/catalog.json.
-- [AoA Community](https://github.com/MeteoriteLabs/aoa-community) — This list. Curated community projects and learning resources.
+- [Army of Agents](https://github.com/tandavkrishna27/Army-of-Agents) — The main AoA product repository.
+- [AoA Marketplace](https://github.com/tandavkrishna27/aoa-marketplace) — Source of truth for the curated catalog of plugins, skills, agent templates, and team templates.
+- [AoA Marketplace CDN](https://github.com/tandavkrishna27/aoa-marketplace-cdn) — Public distribution mirror for the curated marketplace catalog. Live catalog: <https://tandavkrishna27.github.io/aoa-marketplace-cdn/catalog.json>.
+- [AoA Skills](https://github.com/tandavkrishna27/AoA-Skills) — AoA skills repository.
+- [AoA Community](https://github.com/tandavkrishna27/aoa-community) — This repository: experimental and community tools, projects, and learning resources.
 
 ## Plugins
 
-The canonical, always-current plugin catalog lives in the **AoA Marketplace**:
+The [AoA Marketplace](https://github.com/tandavkrishna27/aoa-marketplace) is the source of truth for the curated plugin catalog. Its public distribution mirror is [AoA Marketplace CDN](https://github.com/tandavkrishna27/aoa-marketplace-cdn), which serves the live catalog at <https://tandavkrishna27.github.io/aoa-marketplace-cdn/catalog.json>.
 
-- 🛒 **Live catalog** — https://meteoritelabs.github.io/aoa-marketplace-cdn/catalog.json
-- 📦 **Source repo** — [aoa-marketplace-cdn](https://github.com/MeteoriteLabs/aoa-marketplace-cdn)
-
-The marketplace lists every AoA-compatible plugin with current install instructions and version metadata. Community-published plugins land there once they pass the AoA team's compatibility review.
-
-If you've built an AoA plugin and want it in the marketplace, see the marketplace repo's contribution guide. If your plugin is more experimental and you'd like it surfaced in this list (a softer signal than the marketplace), open a PR here per the [Contributing](#contributing) section below.
+The marketplace is the place for compatibility-reviewed plugins with current install instructions and version metadata. If your plugin is ready for inclusion in the curated catalog, follow the marketplace repository's contribution guide. Experimental plugins can be shared in this community list instead.
 
 ## Tools & Utilities
 
-Bots, bundles, and helper tools for the AoA ecosystem.
+Community tools, bots, bundles, and helper utilities for the AoA ecosystem.
 
 > _This section is open. Add the first entry by submitting a PR — see [Contributing](#contributing) below._
 
 ## Resources
 
-Guides, books, and learning materials about AoA.
+Guides, books, and learning materials.
 
-- [Headcount Zero](https://github.com/AnthonyDavidAdams/zero-employee-company-book) — *Headcount Zero: How to Build an AI-Run Company* — an open-source book on running AI-led companies, with applied workflows that map onto AoA's heartbeat + agent-team model.
+- [Third-party AI-run-company book](https://github.com/AnthonyDavidAdams/zero-employee-company-book) — A general book about running a company with AI agents; licensed separately under CC BY-NC-SA 4.0.
 
 > _Have an AoA tutorial, blog post, or talk to share? Open a PR — see [Contributing](#contributing) below._
 
@@ -61,4 +58,4 @@ In short:
 
 ---
 
-Build your AI workforce! 🖇️
+Build with AoA!
